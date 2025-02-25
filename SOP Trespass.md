@@ -93,7 +93,7 @@ It is important to ensure that all steps are taken to firstly use calming, de-es
 #### References
 - Trespass Act 1980
 
-#### Appendices
-Appendix A: Regional Trespass Notice
-Appendix B: Trespass Service Notice
+#### Appendices  
+Appendix A: Regional Trespass Notice  
+Appendix B: Trespass Service Notice  
 Appendix C: Flow diagram of Trespass 
