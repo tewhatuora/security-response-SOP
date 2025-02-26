@@ -1,3 +1,8 @@
+---
+layout: default
+title: SOP Trespass
+---
+
 ### Guideline objective
 To guide Duty Nurse Managers (DNM) and Security staff in managing the trespass of a person or persons causing concern or who pose a risk to Capital & Coast, Hutt Valley & Wairarapa Health New Zealand Te Whatu Ora or any person. This relates to the issue and enforcement of the Trespass Act 1980. 
 
