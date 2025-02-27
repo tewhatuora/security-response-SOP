@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
 
-style: "/assets/style.css"
+head: |
+  <style>
+    .github-button { display: none !important; }
+  </style>
